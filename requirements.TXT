@@ -1,0 +1,5 @@
+python-telegram-bot
+apscheduler
+sqlite3
+matplotlib
+pytz
